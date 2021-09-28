@@ -1,9 +1,14 @@
+#root {
+  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+
+}
+
 .App {
   text-align: center;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 200vmin;
   pointer-events: none;
 }
 
