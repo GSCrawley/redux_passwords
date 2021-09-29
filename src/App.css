@@ -1,5 +1,5 @@
 #root {
-  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  background-image: linear-gradient(to right, rgb(247, 119, 119),rgb(248, 202, 116),rgb(247, 247, 120),rgb(121, 250, 121),rgb(119, 119, 245),rgb(193, 119, 247),rgb(223, 173, 223));
 
 }
 
